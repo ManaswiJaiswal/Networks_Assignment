@@ -14,23 +14,24 @@ To compile the client and server programs, follow these steps:
 2. Navigate to the project directory.
 3. Run the make command:
 
-bash
+```bash
 make
-
+```
 
 
 ## Running the Server
 
 After successful compilation, you can start the server by executing the following command in the terminal:
 
-bash
+```bash
 ./server <Server Port Number>
-
+```
 
 
 ## Running the Client
 
 To run the client, open a new terminal window and execute:
 
-bash
+```bash
 ./client <Server IP Address> <Server Port Number>
+```
